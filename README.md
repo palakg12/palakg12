@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **front-end web development**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **open source**
 
